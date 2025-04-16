@@ -1,7 +1,7 @@
 
 
 [org.cinnamon]
-favorite-apps=['nemo.desktop', 'org.xfce.mousepad.desktop', 'firefox.desktop', 'org.gnome.Terminal.desktop', 'cinnamon-settings.desktop']
+favorite-apps=['nemo.desktop', 'xed.desktop', 'firefox.desktop', 'org.gnome.Terminal.desktop', 'cinnamon-settings.desktop']
 
 
 [org.cinnamon.desktop.default-applications.terminal]
