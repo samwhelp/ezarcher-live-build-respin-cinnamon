@@ -1,0 +1,21 @@
+
+
+##
+## # Desktop Environment
+##
+
+
+
+
+##
+## * https://wiki.archlinux.org/title/Cinnamon
+##
+
+
+
+
+##
+## ## Package / Desktop Environment / Cinnamon
+##
+
+cinnamon
